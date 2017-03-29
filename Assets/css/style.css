@@ -1,0 +1,99 @@
+/*==================================
+* Author        : "------"
+* Template Name : Picasso | One Page Personal Portfolio HTML Template
+* Version       : 1.0
+==================================== */
+
+
+
+/*=========== TABLE OF CONTENTS ===========
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+===========*/
+*{
+    padding: 0;
+    margin: 0;
+}
+
+*{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	box-sizing:border-box;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #000;
+    line-height: 24px;
+    max-width:1920px;
+    margin:0 auto;
+}
+
+a,a:hover,a:active,a:focus{text-decoration:none;color: #000;}
+h1,h2,h3,h4,h5,h6{margin: 0;font-weight : normal}
+p{margin: 0;line-height: 24px;}
+ul{
+    padding: 0;
+    margin: 0;
+    list-style: none
+}
+select,input,textarea{outline:0;}
+
+.floatleft{float: left;}
+.floatright{float: right;}
+.fix{overflow: hidden;}
+
+html,body{
+    height: 100%;
+}
+/*Style css======================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*===============================
+    Scroll Top
+===============================*/
+#scroll-Top .return-to-top {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    display: none;
+    width: 40px;
+    line-height: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 30px;
+    cursor: pointer;
+    z-index: 9;
+    color: #fff;
+    background-color: #ff0000;
+    transition: .5s;
+}
+#scroll-Top .return-to-top:hover {
+    background: #000;
+    color: #ff0000;
+}
